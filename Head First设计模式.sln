@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式入门(鸭子类)", "设计模式入门(鸭子类)\设计模式入门(鸭子类).csproj", "{0C231771-FBC9-406A-A6A9-4A1E53236E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "策略模式（学习鸭子类-超市打折）", "策略模式（学习鸭子类-超市打折）\策略模式（学习鸭子类-超市打折）.csproj", "{4036881D-207C-47ED-B799-B7C992E9FEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C231771-FBC9-406A-A6A9-4A1E53236E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C231771-FBC9-406A-A6A9-4A1E53236E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C231771-FBC9-406A-A6A9-4A1E53236E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C231771-FBC9-406A-A6A9-4A1E53236E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4036881D-207C-47ED-B799-B7C992E9FEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4036881D-207C-47ED-B799-B7C992E9FEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4036881D-207C-47ED-B799-B7C992E9FEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4036881D-207C-47ED-B799-B7C992E9FEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA11FF5D-A803-4F95-B61F-4CB2A3085090}
+	EndGlobalSection
+EndGlobal
